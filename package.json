@@ -6,6 +6,7 @@
   },
   "dependencies": {
     "@shelex/cypress-allure-plugin": "^2.34.0",
-    "allure-commandline": "^2.20.1"
+    "allure-commandline": "^2.20.1",
+    "cypress": "^12.4.1"
   }
 }
